@@ -1,0 +1,10 @@
+C:\misarch\Tareas\POO 2\Ping Pong\Juego_ping_pong\Juego_ping_pong\bin\Debug\Juego_ping_pong.exe.config
+C:\misarch\Tareas\POO 2\Ping Pong\Juego_ping_pong\Juego_ping_pong\bin\Debug\Juego_ping_pong.exe
+C:\misarch\Tareas\POO 2\Ping Pong\Juego_ping_pong\Juego_ping_pong\bin\Debug\Juego_ping_pong.pdb
+C:\misarch\Tareas\POO 2\Ping Pong\Juego_ping_pong\Juego_ping_pong\obj\Debug\Juego_ping_pong.csprojAssemblyReference.cache
+C:\misarch\Tareas\POO 2\Ping Pong\Juego_ping_pong\Juego_ping_pong\obj\Debug\Juego_ping_pong.Ping_Pong.resources
+C:\misarch\Tareas\POO 2\Ping Pong\Juego_ping_pong\Juego_ping_pong\obj\Debug\Juego_ping_pong.Properties.Resources.resources
+C:\misarch\Tareas\POO 2\Ping Pong\Juego_ping_pong\Juego_ping_pong\obj\Debug\Juego_ping_pong.csproj.GenerateResource.cache
+C:\misarch\Tareas\POO 2\Ping Pong\Juego_ping_pong\Juego_ping_pong\obj\Debug\Juego_ping_pong.csproj.CoreCompileInputs.cache
+C:\misarch\Tareas\POO 2\Ping Pong\Juego_ping_pong\Juego_ping_pong\obj\Debug\Juego_ping_pong.exe
+C:\misarch\Tareas\POO 2\Ping Pong\Juego_ping_pong\Juego_ping_pong\obj\Debug\Juego_ping_pong.pdb

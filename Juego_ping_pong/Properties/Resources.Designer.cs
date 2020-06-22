@@ -63,9 +63,29 @@ namespace Juego_ping_pong.Properties {
         /// <summary>
         ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap Sayan2 {
+        internal static System.Drawing.Bitmap Comienzo {
             get {
-                object obj = ResourceManager.GetObject("Sayan2", resourceCulture);
+                object obj = ResourceManager.GetObject("Comienzo", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap conectado {
+            get {
+                object obj = ResourceManager.GetObject("conectado", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap pelot {
+            get {
+                object obj = ResourceManager.GetObject("pelot", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }

@@ -19,3 +19,14 @@ C:\Users\Win10\Documents\GitHub\Ping_pong\Ping_pong\Juego_ping_pong\obj\Debug\Ju
 C:\Users\Win10\Documents\GitHub\Ping_pong\Ping_pong\Juego_ping_pong\obj\Debug\Juego_ping_pong.exe
 C:\Users\Win10\Documents\GitHub\Ping_pong\Ping_pong\Juego_ping_pong\obj\Debug\Juego_ping_pong.pdb
 C:\Users\Win10\Documents\GitHub\Ping_pong\Ping_pong\Juego_ping_pong\obj\Debug\Juego_ping_pong.Juego.resources
+C:\Users\marlpaz\Source\Repos\Ping_pong\Juego_ping_pong\bin\Debug\Juego_ping_pong.exe.config
+C:\Users\marlpaz\Source\Repos\Ping_pong\Juego_ping_pong\bin\Debug\Juego_ping_pong.exe
+C:\Users\marlpaz\Source\Repos\Ping_pong\Juego_ping_pong\bin\Debug\Juego_ping_pong.pdb
+C:\Users\marlpaz\Source\Repos\Ping_pong\Juego_ping_pong\obj\Debug\Juego_ping_pong.csprojAssemblyReference.cache
+C:\Users\marlpaz\Source\Repos\Ping_pong\Juego_ping_pong\obj\Debug\Juego_ping_pong.Ping_Pong.resources
+C:\Users\marlpaz\Source\Repos\Ping_pong\Juego_ping_pong\obj\Debug\Juego_ping_pong.Juego.resources
+C:\Users\marlpaz\Source\Repos\Ping_pong\Juego_ping_pong\obj\Debug\Juego_ping_pong.Properties.Resources.resources
+C:\Users\marlpaz\Source\Repos\Ping_pong\Juego_ping_pong\obj\Debug\Juego_ping_pong.csproj.GenerateResource.cache
+C:\Users\marlpaz\Source\Repos\Ping_pong\Juego_ping_pong\obj\Debug\Juego_ping_pong.csproj.CoreCompileInputs.cache
+C:\Users\marlpaz\Source\Repos\Ping_pong\Juego_ping_pong\obj\Debug\Juego_ping_pong.exe
+C:\Users\marlpaz\Source\Repos\Ping_pong\Juego_ping_pong\obj\Debug\Juego_ping_pong.pdb

@@ -52,15 +52,16 @@
             this.txtP1.BorderStyle = System.Windows.Forms.BorderStyle.None;
             this.txtP1.Font = new System.Drawing.Font("Impact", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.txtP1.ForeColor = System.Drawing.SystemColors.InfoText;
-            this.txtP1.Location = new System.Drawing.Point(269, 163);
+            this.txtP1.Location = new System.Drawing.Point(269, 162);
             this.txtP1.MaxLength = 30;
             this.txtP1.Name = "txtP1";
             this.txtP1.Size = new System.Drawing.Size(220, 24);
             this.txtP1.TabIndex = 2;
             this.txtP1.Text = "Nombre de Player 1";
             this.txtP1.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
-            this.txtP1.TextChanged += new System.EventHandler(this.txtnombre_TextChanged_1);
+            //this.txtP1.TextChanged += new System.EventHandler(this.txtP1_TextChanged);
             this.txtP1.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.txtnombre_KeyPress);
+            //this.txtP1.Leave += new System.EventHandler(this.txtP1_Leave);
             // 
             // label1
             // 
@@ -71,7 +72,6 @@
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(0, 18);
             this.label1.TabIndex = 5;
-            this.label1.Click += new System.EventHandler(this.label1_Click);
             // 
             // txtP2
             // 
@@ -140,7 +140,6 @@
             this.Imgfondo1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.Imgfondo1.TabIndex = 0;
             this.Imgfondo1.TabStop = false;
-            this.Imgfondo1.Click += new System.EventHandler(this.Imgfondo1_Click);
             // 
             // Ping_Pong
             // 
@@ -160,7 +159,6 @@
             this.Name = "Ping_Pong";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Ping_Pong";
-            this.Load += new System.EventHandler(this.Ping_Pong_Load);
             ((System.ComponentModel.ISupportInitialize)(this.picbox2)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.picbox1)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.Imgstart)).EndInit();

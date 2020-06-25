@@ -29,15 +29,15 @@ namespace Juego_ping_pong
         {
             get { return new Point(Posicion.X + Origen.X, Posicion.Y - Origen.Y); }
         }
-        public Point EsqInferiorDerecha
+        public Point EsqInferiorIzquierda
         {
             get { return new Point(Posicion.X - Origen.X, Posicion.Y + Origen.Y); }
         }
-        public Point RightBottomCorner
+        public Point EsqInferiorDerecha
         {
             get { return new Point(Posicion.X + Origen.X, Posicion.Y + Origen.Y); }
         }
-        public void Draw()
+        public void Dibujar()
         {
             Texturas.Location = new Point(Posicion.X - Origen.X,Posicion.Y - Origen.Y);
         }

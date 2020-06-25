@@ -59,6 +59,7 @@
       <DependentUpon>Juego.cs</DependentUpon>
     </Compile>
     <Compile Include="PongBola.cs" />
+    <Compile Include="PongCubo.cs" />
     <Compile Include="PongOrigen.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

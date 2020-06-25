@@ -58,6 +58,7 @@
     <Compile Include="Juego.Designer.cs">
       <DependentUpon>Juego.cs</DependentUpon>
     </Compile>
+    <Compile Include="PongOrigen.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="PantallaInicio.resx">

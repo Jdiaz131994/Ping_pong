@@ -27,10 +27,7 @@ namespace Juego_ping_pong
                 frm.Show();
             }
 
-        }
-            
-
-        
+        }  
         private void txtnombre_KeyPress(object sender, KeyPressEventArgs e)
         {
             if(e.KeyChar == Convert.ToChar(Keys.Enter))
